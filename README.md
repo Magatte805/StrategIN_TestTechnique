@@ -1,0 +1,1 @@
+# StrategIN_TestTechnique
